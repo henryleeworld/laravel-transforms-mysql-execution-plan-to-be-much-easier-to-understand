@@ -6,7 +6,7 @@ use App\Models\Property;
 use Illuminate\Database\Eloquent\Factories\Factory;
 
 /**
- * @extends Factory<Property>
+ * @extends \Illuminate\Database\Eloquent\Factories\Factory<\App\Models\Property>
  */
 class PropertyFactory extends Factory
 {

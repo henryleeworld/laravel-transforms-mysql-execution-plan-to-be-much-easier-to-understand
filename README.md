@@ -1,4 +1,4 @@
-# Laravel 10 將 MySQL 執行計劃轉換成更容易理解
+# Laravel 11 將 MySQL 執行計劃轉換成更容易理解
 
 引入 tpetry 的 laravel-mysql-explain 套件來擴增將 MySQL 執行計劃轉換成更容易理解，協助了解 SQL 陳述式如何執行的相關資訊。
 
@@ -26,8 +26,8 @@ $ php artisan migrate --seed
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/mkqqLi8.png)
+![](https://i.imgur.com/ONOWEJd.png)
 > 取得對應的 MySQL 執行計劃資訊網址
 
-![](https://i.imgur.com/29bgm5x.png)
+![](https://i.imgur.com/kVSOWT7.png)
 > 收集詳細資料協助最佳化查詢
